@@ -1,1 +1,14 @@
-# cl-igo
+* cl-igo - a Common Lisp morphological analyzer 
+Mirror from http://igo.osdn.jp/cl-igo.html
+
+** Install
+#+BEGIN_SRC 
+ros install masatoi/charseq
+ros install masatoi/cl-igo
+#+END_SRC
+
+** Author
+Takeru Ohta <phjgt308@ybb.ne.jp>
+
+** License
+The MIT License. See COPYING
