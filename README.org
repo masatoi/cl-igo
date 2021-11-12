@@ -3,8 +3,7 @@ Mirror from http://igo.osdn.jp/cl-igo.html
 
 ** Install
 #+BEGIN_SRC 
-ros install masatoi/charseq
-ros install masatoi/cl-igo
+ros install masatoi/charseq masatoi/cl-igo
 #+END_SRC
 
 ** Author
